@@ -1,0 +1,6 @@
+C:\Users\Asrin\Documents\Uni\SIT232 Object Oriented Development\Project 2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Asrin\Documents\Uni\SIT232 Object Oriented Development\Project 2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Asrin\Documents\Uni\SIT232 Object Oriented Development\Project 2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Asrin\Documents\Uni\SIT232 Object Oriented Development\Project 2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Asrin\Documents\Uni\SIT232 Object Oriented Development\Project 2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Asrin\Documents\Uni\SIT232 Object Oriented Development\Project 2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
